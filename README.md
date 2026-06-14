@@ -11,7 +11,6 @@
 ├── 5layer_cnn_labelsmooth_final_model.pth   # 最终模型权重
 ├── training_history.png          # 训练曲线图
 ├── requirements.xlsx             # 依赖库说明
-├── requirements.txt              # 依赖库列表
 ├── .gitignore
 ├── 图片/                         # 测试图片
 └── data/                         # 数据集（运行时自动下载）
