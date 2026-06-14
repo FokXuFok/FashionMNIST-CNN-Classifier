@@ -1,6 +1,7 @@
 # FashionMNIST-CNN-Classifier
 
 本项目是用于大学人工智能应用于开发课程结课作品和人工智能初级学习，内容是基于5层CNN的FashionMNIST服装分类系统，采用标签平滑损失和AdamW优化器训练，提供tkinter GUI识别应用，支持单张和批量图片识别。
+This project is a final course project for the university course 'Artificial Intelligence Application and Development' and is also intended for introductory AI learning. The content is a FashionMNIST clothing classification system based on a 5-layer CNN, trained using label smoothing loss and the AdamW optimizer. It provides a tkinter GUI recognition application, supporting both single and batch image recognition.
 
 ## 项目结构
 
